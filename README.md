@@ -413,11 +413,4 @@ Gunakan kredensial user yang sudah ada di database CI4 (`lab_ci4`):
 
 ---
 
-## 📎 Repository Backend (CI4)
-
-Backend REST API untuk project ini tersedia di:
-👉 **[lab11_ci4 – CodeIgniter 4 REST API](67/67/lab11_ci4)**
-
----
-
 *Dibuat sebagai bagian dari tugas Praktikum Pemrograman Web – Universitas Pelita Bangsa*
