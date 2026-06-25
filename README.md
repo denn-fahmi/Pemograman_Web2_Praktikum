@@ -1,5 +1,5 @@
 # Pemograman_Web2_Praktikum
-# ⚙️ Lab 11 – Backend REST API (CodeIgniter 4)
+# Backend REST API (CodeIgniter 4)
 
 > **Praktikum Pemrograman Web Lanjut**
 > Nama: Den Fahmi Satria | NIM: 312410500 | Universitas Pelita Bangsa – Teknik Informatika
