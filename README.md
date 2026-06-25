@@ -268,11 +268,4 @@ Selain REST API, tersedia juga panel admin berbasis MVC:
 
 ---
 
-## 📎 Repository Frontend (Vue.js)
-
-Frontend SPA yang mengonsumsi API ini tersedia di:
-
-
----
-
 *Dibuat sebagai bagian dari tugas Praktikum Pemrograman Web – Universitas Pelita Bangsa*
