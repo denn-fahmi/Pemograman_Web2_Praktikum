@@ -1,6 +1,6 @@
 # Pemograman_Web2_Praktikum
-[![Backend-api](https://shields.io)](lab11_ci4)
-[![Front-end](https://shields.io)](lab8_vuejs)
+[Backend-api](lab11_ci4) <p>
+[Front-end](lab8_vuejs) <p>
 
 
 # Backend REST API (CodeIgniter 4)
