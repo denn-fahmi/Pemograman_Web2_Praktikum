@@ -1,4 +1,8 @@
 # Pemograman_Web2_Praktikum
+[![Backend-api](https://shields.io)](lab11_ci4)
+[![Front-end](https://shields.io)](lab8_vuejs)
+
+
 # Backend REST API (CodeIgniter 4)
 
 > **Praktikum Pemrograman Web Lanjut**
