@@ -1,4 +1,4 @@
-Frontend SPA Secured (Vue.js)
+# Frontend SPA Secured (Vue.js)
 
 > **Praktikum Pemrograman Web Lanjut**
 > Nama: Den Fahmi Satria | NIM: 312410523 | Universitas Pelita Bangsa – Teknik Informatika
