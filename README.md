@@ -1,6 +1,6 @@
 # Pemograman_Web2_Praktikum
-[Backend-api](lab11_ci4) <p>
-[Front-end](lab8_vuejs) <p>
+[Backend-api](lab11_ci4/ci4) <p>
+[Front-end](lab8_vuejs/index.html) <p>
 
 
 # Backend REST API (CodeIgniter 4)
